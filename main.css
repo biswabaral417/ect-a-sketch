@@ -1,0 +1,19 @@
+body{
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin:50px auto;
+    display: grid;
+    height: 600px;
+    width: 100%;
+    max-width: 600px;
+    background-color: #fff;
+}
+
+select{
+ font-size: 32px;
+ margin: 10px 10px;
+ padding: 10px 24px;
+}
